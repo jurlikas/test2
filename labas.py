@@ -1,6 +1,6 @@
 name='Petas'
 your_name='algis'
-chooses = [1,2,3]
+chooses = [12,2,3]
 if True:
   print('hello')
 else:
